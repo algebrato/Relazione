@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.11.26)  6 DEC 2015 18:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2015/dev/Debian) (preloaded format=pdflatex 2015.11.26)  17 DEC 2015 12:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1010,14 +1010,14 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 49.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <filtro.jpg, id=67, 819.06
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] <filtro.jpg, id=63, 819.06
 pt x 707.64375pt>
 File: filtro.jpg Graphic file (type jpg)
 
 <use filtro.jpg>
 Package pdftex.def Info: filtro.jpg used on input line 75.
 (pdftex.def)             Requested size: 341.43306pt x 294.99481pt.
- [2 <./filtro.jpg>] [3]
+ [2 <./filtro.jpg>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 91.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
@@ -1025,67 +1025,56 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 91.
-
-<tetto1.jpeg, id=81, 545.78906pt x 407.27156pt>
-File: tetto1.jpeg Graphic file (type jpg)
- <use tetto1.jpeg>
-Package pdftex.def Info: tetto1.jpeg used on input line 107.
-(pdftex.def)             Requested size: 341.43306pt x 254.78024pt.
-
-Overfull \hbox (5.69307pt too wide) in paragraph at lines 107--108
- [][] 
- []
-
-<tetto2.jpeg, id=83, 545.03625pt x 362.85562pt>
-File: tetto2.jpeg Graphic file (type jpg)
- <use tetto2.jpeg>
-Package pdftex.def Info: tetto2.jpeg used on input line 113.
-(pdftex.def)             Requested size: 341.43306pt x 227.30466pt.
-
-Overfull \hbox (5.69307pt too wide) in paragraph at lines 113--114
- [][] 
- []
-
-[4 <./tetto1.jpeg> <./tetto2.jpeg>]
-
-LaTeX Warning: Reference `PIANTA' on page 5 undefined on input line 122.
-
-<tettoscorr1.jpg, id=101, 481.8pt x 361.35pt>
+ [3]
+<tettoscorr1.jpg, id=78, 481.8pt x 361.35pt>
 File: tettoscorr1.jpg Graphic file (type jpg)
  <use tettoscorr1.jpg>
-Package pdftex.def Info: tettoscorr1.jpg used on input line 135.
+Package pdftex.def Info: tettoscorr1.jpg used on input line 121.
 (pdftex.def)             Requested size: 341.43306pt x 256.0806pt.
 
-<avalon-merlino.png, id=104, 652.4375pt x 538.01pt>
+Overfull \hbox (5.69307pt too wide) in paragraph at lines 121--122
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 122--122
+[]\T1/cmr/m/n/10.95 (a) |Astro-fi-li di tut-to il mon-do
+ []
+
+<osserv_aperto.jpg, id=80, 401.5pt x 268.00125pt>
+File: osserv_aperto.jpg Graphic file (type jpg)
+ <use osserv_aperto.jpg>
+Package pdftex.def Info: osserv_aperto.jpg used on input line 127.
+(pdftex.def)             Requested size: 341.43306pt x 227.92072pt.
+
+Overfull \hbox (5.69307pt too wide) in paragraph at lines 127--128
+ [][] 
+ []
+
+<avalon-merlino.png, id=83, 652.4375pt x 538.01pt>
 File: avalon-merlino.png Graphic file (type png)
  <use avalon-merlino.png>
-Package pdftex.def Info: avalon-merlino.png used on input line 149.
+Package pdftex.def Info: avalon-merlino.png used on input line 144.
 (pdftex.def)             Requested size: 341.43306pt x 281.55644pt.
 
-[5] [6 <./tettoscorr1.jpg> <./avalon-merlino.png>] [7]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 166.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 166.
+[4] [5 <./tettoscorr1.jpg> <./osserv_aperto.jpg> <./avalon-merlino.png>]
+[6]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
  (./Relazione.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 166.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 166.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
 Package rerunfilecheck Info: File `Relazione.out' has not changed.
-(rerunfilecheck)             Checksum: E55B3A6D438E4426E113882B54566192;938.
-
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
+(rerunfilecheck)             Checksum: 425F93557C68B70C1ADAF389B4305EA8;829.
  ) 
 Here is how much of TeX's memory you used:
- 20773 strings out of 493105
- 368496 string characters out of 6137071
+ 20761 strings out of 493105
+ 368367 string characters out of 6137071
  470116 words of memory out of 5000000
- 23846 multiletter control sequences out of 15000+600000
+ 23839 multiletter control sequences out of 15000+600000
  20771 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,54p,1314b,557s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,12n,54p,1311b,483s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/
@@ -1098,10 +1087,10 @@ m-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx2488.pfb
 onts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm
 -super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb>
 
-Output written on Relazione.pdf (7 pages, 1063927 bytes).
+Output written on Relazione.pdf (6 pages, 944850 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 142 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 164 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 160 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
+ 21 named destinations out of 1000 (max. 500000)
+ 145 words of extra memory for PDF output out of 10000 (max. 10000000)
 
